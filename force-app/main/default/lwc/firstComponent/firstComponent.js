@@ -73,4 +73,8 @@ export default class createRelatedRecord extends LightningElement {
                 );
             });
     }
+    submit(){
+
+    console.log('submit');
+    }
 }
